@@ -1,0 +1,2 @@
+# kendinigelistirenler
+Kitlesel Gelişim Platformu
